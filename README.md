@@ -1,6 +1,6 @@
 # dc-tts-keras
 
-A Keras implementation of Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention based on the following projects:
+A Keras implementation of [Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention](https://arxiv.org/abs/1710.08969)  based on the following projects:
 
 https://github.com/Kyubyong/dc_tts
 
